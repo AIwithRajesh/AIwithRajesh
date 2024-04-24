@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">
- Hi I am Rajesh Choudhary
+ I am Rajesh Choudhary
 </h1>
 
 <h3 align="center">A passionate software developer from Noida IND</h3>
