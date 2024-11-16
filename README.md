@@ -8,8 +8,8 @@
 
 
 - 🔭 I’m currently working on Budgeticu project which **Empowering ICUs Everywhere: Remote Specialist Care at Your Fingertips**
-- 🌱 I’m currently learning **Nextjs, Typescript, Mongodb, AWS Services**
-- 💬 Ask me about **javaScript, TypeScript, React, CSS... or anything [here](https://github.com/rajesh-code-dev)**
+- 🌱 I’m currently exploring automation of deployment **Docker, Kubernates, GitHub Actions, AWS Services**
+- 💬 Ask me about **javaScript, TypeScript, React, CSS... or anything [here](https://linkedin.in/in/rajesh-frontend-dev)**
 - ⚡ Fun fact **Badminton, Expolring New Things**
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
