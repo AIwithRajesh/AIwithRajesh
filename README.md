@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+    <img src="https://chatgpt.com/c/67508e37-2084-8005-abef-6323e3b9d278" />
+</div>
+
 Hello and Welcome! 👋
 <h3 align="center">A passionate software developer from Noida IND</h3>
 
