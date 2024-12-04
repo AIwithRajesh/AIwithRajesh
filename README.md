@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-    <img src="https://chatgpt.com/c/67508e37-2084-8005-abef-6323e3b9d278" />
+    <img src="https://www.joberty.com/blog/content/images/size/w1272/2023/09/web-developers.png" />
 </div>
 
 Hello and Welcome! 👋
