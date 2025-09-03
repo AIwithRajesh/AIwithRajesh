@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-    
-</div>
-
-Hello and Welcome! 👋
 <h3 align="center">A passionate software developer from Noida IND</h3>
 
 I'm Rajesh Choudhary, a web developer originally from Darbhanga, Bihar, now living in Noida, India. My expertise lies in JavaScript, TypeScript, and React.js, where I thrive in building modern, scalable, and high-performance web applications.
